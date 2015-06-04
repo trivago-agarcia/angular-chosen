@@ -1,0 +1,29 @@
+{
+  "name": "trv-angular-chosen",
+  "version": "1.0.0",
+  "description": "angular-chosen ==============",
+  "main": "chosen.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trivago-agarcia/angular-chosen.git"
+  },
+  "author": "Alejandro Garcia Anglada <alejandro.garcia@trivago.com> (http://aganglada.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trivago-agarcia/angular-chosen/issues"
+  },
+  "homepage": "https://github.com/trivago-agarcia/angular-chosen",
+  "dependencies": {
+    "chosen": "https://github.com/harvesthq/chosen/releases/download/v1.1.0/chosen_v1.1.0.zip",
+    "angular": ">=1.2.0"
+  },
+  "publishConfig" : {
+     "registry" : "http://js.pkg.trivago.trv:4873"
+  }
+}
