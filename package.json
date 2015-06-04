@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/trivago-agarcia/angular-chosen",
   "dependencies": {
-    "chosen": "https://github.com/harvesthq/chosen/releases/download/v1.1.0/chosen_v1.1.0.zip",
+    "chosen-jquery": "^0.1.1",
     "angular": ">=1.2.0"
   },
   "publishConfig" : {
